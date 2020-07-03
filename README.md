@@ -12,7 +12,7 @@ These .ipynb notebooks demonstrate image processing techniques applied on a pict
 4. Image sharpening
 5. Flipping and Rotation
 6. Contrast Stretching
-7. Histogram Equalized
+7. Histogram Equalizing
 8. Custom Filter
 9. Edge Detection
 
