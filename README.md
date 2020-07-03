@@ -1,10 +1,10 @@
-# Image Processing / Computational Photography
+# Computational Photography Techniques
 
 These .ipynb notebooks demonstrate image processing techniques applied on a picture I took when I was in Singapore. Enjoy!
 
 ## Brief overview of techniques implemented in the notebooks:-
 
-### Notebook #1 - Basics Pt.1:-
+### 1. CP - Basics #1:-
 
 1. Contours
 2. Noise Addition
@@ -16,7 +16,7 @@ These .ipynb notebooks demonstrate image processing techniques applied on a pict
 8. Custom Filter
 9. Edge Detection
 
-### Notebook #2 - Basics Pt.2:-
+### 2. CP - Basics Pt.2:-
 
 1. Noise Addition
 2. Image Interpolation
@@ -24,6 +24,9 @@ These .ipynb notebooks demonstrate image processing techniques applied on a pict
 4. Image Morphing
 5. Image subtraction
 
+### 3. CP - Long Exposure
+
+Creates a long exposure effect from still frames of videos.
 
 
 
